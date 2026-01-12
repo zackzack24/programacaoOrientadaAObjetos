@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Celular",
+        "codigo": "001",
+        "quantidade": 1000,
+        "valor": 2000
+    },
+    {
+        "nome": "T\u00eanis",
+        "codigo": "002",
+        "quantidade": 200,
+        "valor": 200
+    },
+    {
+        "nome": "Mause",
+        "codigo": "003",
+        "quantidade": 2000,
+        "valor": 35
+    },
+    {
+        "nome": "T\u00eanis",
+        "codigo": "004",
+        "quantidade": 15,
+        "valor": 125
+    }
+]
