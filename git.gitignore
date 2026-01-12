@@ -55,7 +55,7 @@ build/
 # Backup files
 *.bak
 *.backup
-
+""
 # Arquivos de sistema
 .DS_Store
 Thumbs.db
